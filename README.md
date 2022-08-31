@@ -17,7 +17,7 @@
 
 </details>
 
-|      Topic       | Instant Link                                                                                                              |
+|      话题       | 链接                                                                                                           |
 | :--------------: | ------------------------------------------------------------------------------------------------------------------------- |
 |      Basics      | [Explore](https://github.com/jameslee-7/Web3.0-club#basics)                                                   |
 |      dApps       | [Explore](https://github.com/jameslee-7/Web3.0-club#dapps)                                                    |
@@ -39,27 +39,27 @@
 #
 
 
-# Basics:
+# 基本:
 - 阅读 [区块链解释](https://www.investopedia.com/terms/b/blockchain.asp)
 
 
-#### Ethereum
--了解以太坊的基础知识
--以太坊虚拟机（EVM）
--了解钱包、账户（EOA）、抵押/抵押
--了解交易(transactions)、汽油(Gas)、加密钱包(Metamask)
--以太坊客户端/节点，Geth
+#### 以太坊
+- 了解以太坊的基础知识
+- 以太坊虚拟机（EVM）
+- 了解钱包、账户（EOA）、抵押/抵押
+- 了解交易(transactions)、汽油(Gas)、加密钱包(Metamask)
+- 以太坊客户端/节点，Geth
 
-#### Smart Contract
+#### 智能合约
 
--智能合约基础 (smart contract)
+- 智能合约基础 (smart contract)
 
 
-#### Smart Contract Standards
+#### 智能合约标准
 
 - [ERCs](https://eips.ethereum.org/erc) - 以太坊改进提案
 
-#### Tokens
+#### 代币
 
 - [ERC-20](https://eips.ethereum.org/EIPS/eip-20) - 可替代资产的代币合约.
 - [ERC-721](https://github.com/ethereum/eips/issues/721) - 不可替代资产的代币标准.
@@ -69,18 +69,18 @@
 - [ERC-4626](https://eips.ethereum.org/EIPS/eip-4626) - 代币化保险库标准.
 - [Token Interaction Checklist](https://consensys.net/diligence/blog/2020/11/token-interaction-checklist/)
 
-#### Others
+#### 其他
 
 - [ERC-165](https://eips.ethereum.org/EIPS/eip-165) - 创建一个标准方法来发布和检测智能合约实现的接口.
 - [ERC-725](https://eips.ethereum.org/EIPS/eip-725) - 简单代理帐户的标准接口.
 - [ERC-173](https://eips.ethereum.org/EIPS/eip-173) - 范围内的标准接口.
 
-#### General Development Skills
+#### 一般发展技能
 
 - 做这门课程[Ethereum and Solidity: The Complete Developer's Guide](https://www.udemy.com/ethereum-and-solidity-the-complete-developers-guide/)
 
 
-#### Try this tools:
+#### 试试这个工具：
 
 
 - [Remix](https://remix.ethereum.org/) - 在线实时编译器.
@@ -88,107 +88,70 @@
 
 # dApps
 
-- Get familiar with tools that you will be using:
 
 
 
-#### Practice
+#### 实践
 
 - [ETH.build](https://eth.build/) 一个Web3的教育沙盒
 
 
 
-# Further Readings
+# 进一步阅读
 
-#### Inspired by:
+#### 灵感来自:
 
 - [From 0 to Web3.0](https://github.com/kay-is/web3-from-zero)
 
 
-#### Security & Safety:
+#### Security & Safety（安全）:
 
 
 
-#### DeFI
+#### 去中心化金融
 
 
 
-#### Ethereum Name Service
-
-- [Ethereum Name Service: the Good, the Bad, and the Ugly](https://arxiv.org/pdf/2104.05185.pdf) - Yet, no existing work has studied this emerging system, the security issues and misbehaviors in ENS. Authors present the first study of ENS by analyzing millions of event logs related to ENS.
+#### 以太坊域名：
 
 
-#### Non-Fungible Token (NFT):
+#### 不可替代代币（NFT）：
 
 
 
-#### Stable-Coins:
+#### 稳定币:
 
 
-
-#### General information:
-
-
-
-#### Special Author's compilations:
-
-
-
-#### Side-Chains
+#### 侧链
 
 
 
 #### EIP - 1559
 
 
-#### Ethereum 2.0
+#### 以太坊 2.0
 
 
 
-#### MEV - Maximal Extractable Value / Miner Extractable Value:
+#### MEV - 最大可提取价值/矿工可提取价值：
 
 
 
-#### Discucssion
+
+# 工具大全
+
+#### 以太坊工具
+
+
+#### 开发者工具
 
 
 
-# Tools Collection
-
-#### Ethereum Tools
-
-- [All ETH security tools existing](https://graph.org/ETHSec-Tools-02-13)
-
-
-
-#### Libraries
-
-- [OpenZeppelin](https://openzeppelin.org/) - Framework to build secure smart contracts.
-
-#### Popular Smart Contract Libraries
-
-
-
-#### Patterns for Smart Contracts
-
-
-#### Upgradeability
-
-- [Blog von Elena Dimitrova, Dev at colony.io](https://blog.colony.io/author/elena/)
-- [Library driven development](https://blog.aragon.org/library-driven-development-in-solidity-2bebcaf88736)
-- [Advanced Solidity code deployment techniques](https://blog.aragon.org/advanced-solidity-code-deployment-techniques-dc032665f434/)
-- [OpenZeppelin on Proxy Libraries](https://blog.openzeppelin.com/proxy-libraries-in-solidity-79fbe4b970fd/)
-
-#### Developer Tools
-
-
-
-#### Storage
+#### 去中心化存贮
 
 - [IPFS](https://ipfs.io/) - Decentralised storage and file referencing
 
 
 
 ##
-
-(👍 ͡❛ ͜ʖ ͡❛)👍 感谢支持!点点star嗷 
+感谢支持!点点star嗷 
