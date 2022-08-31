@@ -20,21 +20,7 @@
 |      话题       | 链接                                                                                                           |
 | :--------------: | ------------------------------------------------------------------------------------------------------------------------- |
 |      Basics      | [Explore](https://github.com/jameslee-7/Web3.0-club#basics)                                                   |
-|      dApps       | [Explore](https://github.com/jameslee-7/Web3.0-club#dapps)                                                    |
-|    Frameworks    | [Explore](https://github.com/jameslee-7/Web3.0-club#frameworks)                                                                                  |
-| Further Readings | [Explore](https://github.com/jameslee-7/Web3.0-club#further-readings)                                         |
-|     Security     | [Explore](https://github.com/jameslee-7/Web3.0-club#security--safety)                                         |
-|       DeFi       | [Explore](https://github.com/jameslee-7/Web3.0-club#defi)                                                     |
-|       ENS        | [Explore](https://github.com/jameslee-7/Web3.0-club#ethereum-name-service)                                    |
-|       NFT        | [Explore](https://github.com/jameslee-7/Web3.0-club#non-fungible-token-nft)                                   |
-|   Stable Coins   | [Explore](https://github.com/jameslee-7/Web3.0-club#stable-coins)                                             |
-|   General Info   | [Explore](https://github.com/jameslee-7/Web3.0-club#ethereum-tools)                                           |
-|   Side Chains    | [Explore](https://github.com/jameslee-7/Web3.0-club#side-chains)                                              |
-|       MEV        | [Explore](https://github.com/jameslee-7/Web3.0-club#mev---maximal-extractable-value--miner-extractable-value) |
-| Tools Collection | [Explore](https://github.com/jameslee-7/Web3.0-club#tools-collection)                                         |
-|     ETH 2.0      | [Explore](https://github.com/jameslee-7/Web3.0-clubp#ethereum-20)                                              |
-|    Front End     | [Explore](https://github.com/jameslee-7/Web3.0-club#front-end)                                                |
-|  Project Manag.  | [Explore](https://github.com/jameslee-7/Web3.0-club#project-management)                                       |
+
 
 #
 
