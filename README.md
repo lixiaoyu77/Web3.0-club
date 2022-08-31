@@ -4,106 +4,16 @@
 **在这里，我将收集并讨论最好的Web3.0学习资源-欢迎参与贡献**
 **您可以随时提交拉取请求，包括从翻译、文档或您想要添加任何资源**
 
-# DeFi Developer Road Map
-
-**Here we collect and discuss the best DeFi & Blockchain researches and tools - contributions are welcome.**
-
-**Feel free to submit a pull request, with anything from small fixes to translations, docs or tools you'd like to add.**
-
-
-## Support Me:
-
-Support is **very** important to me, with it I can do what I love - educating DeFi & Crypto users :sparkling_heart:  First, a few words, dear friends... I want to thank everyone who sent me donations! Much much thanks to you, I was able to bear the loss of my last job, found new meaning of life, and finally started writing a lot!
-
-The best thing is to support me directly by donating to my address on Ethereum Main-net or any of the compatible networks or to any address from the list below:
-
-[![Supported by GitCoin](https://img.shields.io/badge/Support%20via-GitCoin-yellowgreen)](https://gitcoin.co/grants/3150/defi-developer-roadmap)
-
-
-If you want to support my work, you can also send me a donation to the address:
-
-- **[0xB25C5E8fA1E53eEb9bE3421C59F6A66B786ED77A](https://etherscan.io/address/0xB25C5E8fA1E53eEb9bE3421C59F6A66B786ED77A)** — ERC20 & ETH [officercia.eth](https://etherscan.io/enslookup-search?search=officercia.eth)
-
-- **[17Ydx9m7vrhnx4XjZPuGPMqrhw3sDviNTU](https://blockchair.com/bitcoin/address/17Ydx9m7vrhnx4XjZPuGPMqrhw3sDviNTU)** - BTC
-
-- **4AhpUrDtfVSWZMJcRMJkZoPwDSdVG6puYBE3ajQABQo6T533cVvx5vJRc5fX7sktJe67mXu1CcDmr7orn1CrGrqsT3ptfds** - Monero XMR 
-
-- **BLyXANAw7ciS2Abd8SsN1Rc8J4QZZiJdBzkoyqEuvPAB** - Solana
-
-- **t1Tixh34p5FK9pMV4VYKzggP6qPbUwUabxx** - ZenCash ZEC 
-
-- **DQhux6WzyWb9MWWNTXKbHKAxBnAwDWa3iD** - Doge 
-
-- **TYWJoRenGB9JFD2QsdPSdrJtaT6CDoFQBN** - USDT TRX
-
-- **LebuhjAPJLnLULAKsMgQEZC5E5q9TdvurJ** - LiteCoin
-
-- You can also support me by minting one of my [Mirror articles NFTs](https://officercia.mirror.xyz/)!
-
-- You can also send me a donation to the address from [this repository](https://github.com/OffcierCia/support)!
-
 #
+我希望我的建议可以帮助您赚很多钱并节省很多钱！在我们统治熵的世界中，信息意义重大，我免费提供给你。另外我想提醒我所有的敌人和仇恨者，我只是一个作家，我的昵称只是试图让人们意识到安全问题。称之为绝唱或发自内心的呐喊，但我喜欢我所做的。
 
-Also, you can order an audit or investigation of stolen funds from one of my friend companies:
+我想让你知道，我也为黑客和事件的链上调查做私人订单！大部分相关案件顺利结案！对于退回的资金或捐款的一小部分，我将为您进行调查，建议您采取哪些进一步的步骤，并将您送到正确的路线！
 
-- [Pessimistic.io](https://pessimistic.io)
-- [Hexens.io](https://hexens.io)
-
-Don't forget to mention that you are my referral, I get a small commission and you get VIP treatment! 
-
-User donations have been and still are my main source of income. It helps to avoid affiliations and engagements. I really care about what I do and I'm glad you like it! You can also buy the works of my good friend and artist - all proceeds will go to create a book about blockchain with a unique design:
-
-- [opensea.io/collection/regullion-collection](https://opensea.io/collection/regullion-collection)
-
-I hope my tips have helped you make and save a lot of money! In our world of ruling Entropy, information means a lot and I give it to you for free. Also I want to remind all my enemies and haters that I'm just a writer and my nickname is just an attempt to make people aware of the safety issue. Call it a swan song or a cry from the heart, but I like what I do.
-
-I would like to let you know that I also do private orders for onchain investigations of hacks and incidents! Most of related cases ended successfully! For a small % of the returned funds or donation I will conduct an investigation for you, advise you on what further steps to take and send you to the right route! 
-
-Thank you very much. I am very happy and excited to help each and every one of you! Thank you so much for your support!
+非常感谢。我很高兴也很高兴能帮助你们每一个人！非常感谢你的支持！
 
 
 #
 
-- [Check out my Telegram Channel](https://t.me/officer_cia)
-- [Follow my Twitter](https://twitter.com/officer_cia)
-- [Track all my activities](https://t.me/officer_cia/296)
-- [All my Socials](https://t.me/officer_cia/296)
-
-#
-
-[![Support Project](https://img.shields.io/badge/Support-Project-critical)](https://github.com/OffcierCia/DeFi-Developer-Road-Map#support-project) [![Supported by GitCoin](https://img.shields.io/badge/Support%20via-GitCoin-yellowgreen)](https://gitcoin.co/grants/3150/defi-developer-roadmap) [![Supported by LEGO](https://img.shields.io/badge/Supported%20by-LEGO-%2300A3FF)](https://www.notion.so/LEGO-Lido-Ecosystem-Grants-Organisation-d7f0bf0182d44348b6173639d2e8363d)
-[![Research Base](https://img.shields.io/badge/Research-Base-lightgrey)](https://github.com/OffcierCia/ultimate-defi-research-base)
-[![Mail](https://img.shields.io/badge/Mail-offcierciapr%40protonmail.com-brightgreen)](mailto:offcierciapr@protonmail.com)
-
-<details>
-<summary>Translations</summary>
-<br />
-
-- [French](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_fr.md)
-- [Gujarati](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_guj.md)
-- [Korean](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_ko.md)
-- [Italiano](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_it.md)
-
-</details>
-
-## Roadmap
-
-![Roadmap](./DeFiRoadMapNewSVG.svg)
-
-# Navigation
-
-**[Alternative navigation](https://start.me/p/QRg5ad/officercia)** ❗️
-
-#
-
-<details>
-<summary>Translations</summary>
-<br />
-
-- [French](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_fr.md)
-- [Gujarati](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_guj.md)
-- [Korean](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_ko.md)
-- [Italiano](https://github.com/OffcierCia/DeFi-Developer-Road-Map/blob/main/translations/README_it.md)
 
 </details>
 
@@ -114,33 +24,21 @@ Thank you very much. I am very happy and excited to help each and every one of y
 |    Frameworks    | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#frameworks)                                               |
 |    zk-snarks     | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#zk-snarks)                                                |
 | Further Readings | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#further-readings)                                         |
-|     Security     | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#security--safety)                                         |
-|       DeFi       | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#defi)                                                     |
-|       ENS        | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#ethereum-name-service)                                    |
-|       NFT        | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#non-fungible-token-nft)                                   |
-|   Stable Coins   | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#stable-coins)                                             |
-|   General Info   | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#ethereum-tools)                                           |
-|   Side Chains    | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#side-chains)                                              |
-|       MEV        | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#mev---maximal-extractable-value--miner-extractable-value) |
-| Tools Collection | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#tools-collection)                                         |
-|     ETH 2.0      | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#ethereum-20)                                              |
-|    Front End     | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#front-end)                                                |
-|  Project Manag.  | [Explore](https://github.com/OffcierCia/DeFi-Developer-Road-Map#project-management)                                       |
+|     Security     | [Explore](https://github.com/jameslee-7/Web3.0-club#security--safety)                                         |
+|       DeFi       | [Explore](https://github.com/jameslee-7/Web3.0-club#defi)                                                     |
+|       ENS        | [Explore](https://github.com/jameslee-7/Web3.0-club#ethereum-name-service)                                    |
+|       NFT        | [Explore](https://github.com/jameslee-7/Web3.0-club#non-fungible-token-nft)                                   |
+|   Stable Coins   | [Explore](https://github.com/jameslee-7/Web3.0-club#stable-coins)                                             |
+|   General Info   | [Explore](https://github.com/jameslee-7/Web3.0-club#ethereum-tools)                                           |
+|   Side Chains    | [Explore](https://github.com/jameslee-7/Web3.0-club#side-chains)                                              |
+|       MEV        | [Explore](https://github.com/jameslee-7/Web3.0-club#mev---maximal-extractable-value--miner-extractable-value) |
+| Tools Collection | [Explore](https://github.com/jameslee-7/Web3.0-club#tools-collection)                                         |
+|     ETH 2.0      | [Explore](https://github.com/jameslee-7/Web3.0-clubp#ethereum-20)                                              |
+|    Front End     | [Explore](https://github.com/jameslee-7/Web3.0-club#front-end)                                                |
+|  Project Manag.  | [Explore](https://github.com/jameslee-7/Web3.0-club#project-management)                                       |
 
 #
 
-**| Special Author's Notes:**
-
-- [All-about-NFT security ](https://graph.org/NFT-security-01-28)
-- [Browser leakage checkers ](https://graph.org/Checkers-01-19)
-- [All ETH security tools existing](https://graph.org/ETHSec-Tools-02-13)
-- [All good TG Dev communities ](https://graph.org/Crypto-Telegram-Channels--Chats-04-19)
-- [Known smart contract-side and user-side attacks](https://graph.org/Data-02-14)
-- [Solidity language cheatsheets, tools and references collection](https://graph.org/Solidity-Cheatsheets-Pack-03-20)
-- [All known smart contract-side and user-side attacks & attack vectors](https://graph.org/All-known-smart-contract-side-and-user-side-attacks-and-vulnerabilities-in-Web30--DeFi-03-31)
-- [All possible transaction analysis, crypto-forensics and investigation tools list & references in a single note](https://graph.org/TX-Analysis-tools-04-19)
-- [Key principles of storing crypto cold wallet attacks defense methods best practices](https://graph.org/Key-principles-of-storing-crypto-cold-wallet-attacks-defense-methods-best-practices--Bonus-04-23)
-- [Check out my recent articles](https://mirror.xyz/officercia.eth)
 
 # Basics:
 
