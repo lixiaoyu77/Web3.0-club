@@ -17,10 +17,12 @@
 
 
 
-      话题        链接                                                                                                           
 
-      基本      | [Explore](https://github.com/jameslee-7/Web3.0-club#基本)                                                   
-      dapps       [Explore](https://github.com/jameslee-7/Web3.0-club#dapps)                                                   
+|      话题       | 链接                                                                                                           |
+| :--------------: | ------------------------------------------------------------------------------------------------------------------------- |
+|      基本      | [Explore](https://github.com/jameslee-7/Web3.0-club#基本)                                                   |
+|      dapps      | [Explore](https://github.com/jameslee-7/Web3.0-club#dapps)                                                   |
+                                         
 
 
 
