@@ -19,7 +19,9 @@
 
 |      话题       | 链接                                                                                                           |
 | :--------------: | ------------------------------------------------------------------------------------------------------------------------- |
-|      Basics      | [Explore](https://github.com/jameslee-7/Web3.0-club#basics)                                                   |
+|      基本      | [Explore](https://github.com/jameslee-7/Web3.0-club#基本)                                                   |
+|      dapps      | [Explore](https://github.com/jameslee-7/Web3.0-club#dapps)                                                   |
+
 
 
 #
