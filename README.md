@@ -13,8 +13,8 @@
 
 |      话题       | 链接                                                                                                           |
 | :--------------: | ------------------------------------------------------------------------------------------------------------------------- |
-|      Web3.0基本知识      | [Explore](https://github.com/jameslee-7/Web3.0-club#Web3.0基本知识)                                                   |
-|      Web3.0公众号      | [Explore](https://github.com/jameslee-7/Web3.0-club#Web3.0公众号)                                                   |                     
+|     Web3.0基本知识       | [Explore](https://github.com/jameslee-7/Web3.0-club#Web3.0基本知识)                                                |
+|      Web3.0公众号        | [Explore](https://github.com/jameslee-7/Web3.0-club#Web3.0公众号)                                                  |                     
 
                                          
 #
@@ -38,7 +38,7 @@
 - 
 #
 
-# Web3.0国内资讯网站:
+# Web3.0国内资讯网站
 - [律动](https://www.theblockbeats.info/)
 - [巴比特](https://www.8btc.com/)
 - [金色财经](https://www.jinse.com/)
@@ -47,7 +47,7 @@
 #
 
 
-# Web3.0公众号:
+# Web3.0公众号
 - [律动](https://www.theblockbeats.info/)
 - [巴比特](https://www.8btc.com/)
 - [金色财经](https://www.jinse.com/)
