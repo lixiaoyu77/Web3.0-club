@@ -21,8 +21,14 @@
 
 # Web3.0基本知识:
 - [九句话，从零了解Web3](https://www.theblockbeats.info/news/28748)
+- [一文读懂Web 3.0](https://www.woshipm.com/it/5261307.html)
+- [全面的Web 3.0资源]([https://www.woshipm.com/it/5261307.html](https://docs.worklife.vip/web/#/19/2000))
+- [Web3工具大全](https://www.useweb3.xyz/) -找到一切你所需要的Web3.0资源！
+- []()
+
 
 # Web3.0国内资讯网站:
+- [律动](https://www.theblockbeats.info/)
 
 
 #### 代币
