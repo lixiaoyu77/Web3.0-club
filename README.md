@@ -20,22 +20,13 @@
 
 
 # Web3.0基本知识:
-- 阅读 [区块链解释](https://www.investopedia.com/terms/b/blockchain.asp)
-- 阅读 [区块链解释](https://www.investopedia.com/terms/b/blockchain.asp)
+- [九句话，从零了解Web3](https://www.theblockbeats.info/news/28748)
 
+# Web3.0国内资讯网站:
 
 
 #### 代币
 - [ERC-20](https://eips.ethereum.org/EIPS/eip-20) - 可替代资产的代币合约.
-- [ERC-721](https://github.com/ethereum/eips/issues/721) - 不可替代资产的代币标准.
-- [ERC-1155](https://eips.ethereum.org/EIPS/eip-1155) - 半同质代币的代币标准
-- [ERC-918](https://eips.ethereum.org/EIPS/eip-918) - 可兑换代币标准.
-- [ERC-1363](https://eips.ethereum.org/EIPS/eip-1363) - 支付标准.
-- [ERC-4626](https://eips.ethereum.org/EIPS/eip-4626) - 代币化保险库标准.
-- [Token Interaction Checklist](https://consensys.net/diligence/blog/2020/11/token-interaction-checklist/)
-
-
-# dApps
 
 
 
