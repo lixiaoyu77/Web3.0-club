@@ -34,6 +34,14 @@
 - []()
 #
 
+# Web3.0创业:
+- 都可以远程兼职噢
+- [web3工作](https://web3.career/) 
+- [去中心化招聘](https://app.dework.xyz/?step=product-update-220527) -还有一些赏金任务！！！
+- [加密工作清单](https://cryptojobslist.com/community)
+- [加密工作](https://cryptocurrencyjobs.co/)
+- []()
+-
 
 # Web3.0招聘网站:
 - 都可以远程兼职噢
