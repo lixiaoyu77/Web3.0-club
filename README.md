@@ -24,6 +24,7 @@
 - [全面的Web 3.0资源]([https://www.woshipm.com/it/5261307.html](https://docs.worklife.vip/web/#/19/2000))
 - [Web3工具大全](https://www.useweb3.xyz/) -找到一切你所需要的Web3.0资源！
 - []()
+#
 
 # Web3.0国内资讯网站:
 - [律动](https://www.theblockbeats.info/)
@@ -31,14 +32,17 @@
 - [金色财经](https://www.jinse.com/)
 - [链捕手](https://www.chaincatcher.com/)
 - []()
-- []()
--
+#
+
 
 # Web3.0招聘网站:
-
-
-
-
+- 都可以远程兼职噢
+- [web3工作](https://web3.career/) 
+- [去中心化招聘](https://app.dework.xyz/?step=product-update-220527) -还有一些赏金任务！！！
+- [加密工作清单](https://cryptojobslist.com/community)
+- [加密工作](https://cryptocurrencyjobs.co/)
+- []()
+#
 
 ##
 感谢支持!点点star嗷!!!
