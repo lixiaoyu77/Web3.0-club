@@ -13,7 +13,9 @@
 
 |      话题       | 链接                                                                                                           |
 | :--------------: | ------------------------------------------------------------------------------------------------------------------------- |
-|      Web3.0基本知识      | [Explore](https://github.com/jameslee-7/Web3.0-club#Web3.0基本知识)                                                   |                     
+|      Web3.0基本知识      | [Explore](https://github.com/jameslee-7/Web3.0-club#Web3.0基本知识)                                                   |
+|      Web3.0公众号      | [Explore](https://github.com/jameslee-7/Web3.0-club#Web3.0公众号)                                                   |                     
+
                                          
 #
 
@@ -26,6 +28,16 @@
 - []()
 #
 
+# Web3.0好文推荐:
+- [送给 Web3 后浪们的职业手册 ](https://www.chaincatcher.com/article/2077168) ｜建议收藏！！！
+- [Coinbase 研究：Web3 开发者堆栈指南](https://www.chaincatcher.com/article/2078918)
+- []()
+- []()
+- []()
+- []()
+- 
+#
+
 # Web3.0国内资讯网站:
 - [律动](https://www.theblockbeats.info/)
 - [巴比特](https://www.8btc.com/)
@@ -34,8 +46,18 @@
 - []()
 #
 
-# Web3.0创业:
 
+# Web3.0公众号:
+- [律动](https://www.theblockbeats.info/)
+- [巴比特](https://www.8btc.com/)
+- [金色财经](https://www.jinse.com/)
+- [链捕手](https://www.chaincatcher.com/)
+- []()
+- []()
+- []()
+#
+
+# Web3.0创业:
 -
 
 # Web3.0招聘网站:
