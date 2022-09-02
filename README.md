@@ -37,12 +37,17 @@
 - 
 #
 
-# Web3.0国内资讯网站:
+# Web3.0国内外资讯网站:
 - [律动](https://www.theblockbeats.info/)
 - [巴比特](https://www.8btc.com/)
 - [金色财经](https://www.jinse.com/)
 - [链捕手](https://www.chaincatcher.com/)
-- []()
+- [登链社区](https://learnblockchain.cn/)
+#### 国外网站
+- [Web3实验室博客](https://blog.web3labs.com/)
+- [Web3大学](https://www.web3.university/)
+- [Web3哈希节点](https://web3.hashnode.com/)
+- [Dapp雷达](https://dappradar.com/)
 #
 
 
