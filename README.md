@@ -21,7 +21,7 @@
 # Web3.0基本知识:
 - [九句话，从零了解Web3](https://www.theblockbeats.info/news/28748)
 - [一文读懂Web 3.0](https://www.woshipm.com/it/5261307.html)
-- [全面的Web 3.0资源]([https://www.woshipm.com/it/5261307.html](https://docs.worklife.vip/web/#/19/2000))
+- [全面的Web 3.0资源](https://docs.worklife.vip/web/#/19/2000)
 - [Web3工具大全](https://www.useweb3.xyz/) -找到一切你所需要的Web3.0资源！
 - []()
 #
@@ -35,12 +35,7 @@
 #
 
 # Web3.0创业:
-- 都可以远程兼职噢
-- [web3工作](https://web3.career/) 
-- [去中心化招聘](https://app.dework.xyz/?step=product-update-220527) -还有一些赏金任务！！！
-- [加密工作清单](https://cryptojobslist.com/community)
-- [加密工作](https://cryptocurrencyjobs.co/)
-- []()
+
 -
 
 # Web3.0招聘网站:
