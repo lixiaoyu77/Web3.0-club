@@ -13,8 +13,7 @@
 
 |      话题       | 链接                                                                                                           |
 | :--------------: | ------------------------------------------------------------------------------------------------------------------------- |
-|      Web3.0基本知识      | [Explore](https://github.com/jameslee-7/Web3.0-club#Web3.0基本知识)                                                   |
-|                                                           |
+|      Web3.0基本知识      | [Explore](https://github.com/jameslee-7/Web3.0-club#Web3.0基本知识)                                                   |                     
                                          
 #
 
@@ -26,14 +25,16 @@
 - [Web3工具大全](https://www.useweb3.xyz/) -找到一切你所需要的Web3.0资源！
 - []()
 
-
 # Web3.0国内资讯网站:
 - [律动](https://www.theblockbeats.info/)
+- [巴比特](https://www.8btc.com/)
+- [金色财经](https://www.jinse.com/)
+- [链捕手](https://www.chaincatcher.com/)
+- []()
+- []()
+-
 
-
-#### 代币
-- [ERC-20](https://eips.ethereum.org/EIPS/eip-20) - 可替代资产的代币合约.
-
+# Web3.0招聘网站:
 
 
 
