@@ -10,7 +10,6 @@
 我希望我的建议可以帮助您赚很多钱并节省很多钱！在我们统治熵的世界中，信息意义重大，我免费提供给你。
 #
 
-</details>
 |      话题       | 链接                                                                                                           |
 | :--------------: | ------------------------------------------------------------------------------------------------------------------------- |
 |     Web3.0基本知识       | [Explore](https://github.com/jameslee-7/Web3.0-club#Web3.0基本知识)                                                |
@@ -22,9 +21,10 @@
 # Web3.0基本知识:
 - [九句话，从零了解Web3](https://www.theblockbeats.info/news/28748)
 - [一文读懂Web 3.0](https://www.woshipm.com/it/5261307.html)
+- [Web3常用术语](https://wenku.baidu.com/view/771eecc36194dd88d0d233d4b14e852458fb39a4.html)
 - [全面的Web 3.0资源](https://docs.worklife.vip/web/#/19/2000)
 - [Web3工具大全](https://www.useweb3.xyz/) -找到一切你所需要的Web3.0资源！
-- []()
+
 #
 
 # Web3.0好文推荐:
