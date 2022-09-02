@@ -29,7 +29,7 @@
 #
 
 
-# 基本:
+# Web3.0基本知识:
 - 阅读 [区块链解释](https://www.investopedia.com/terms/b/blockchain.asp)
 #### 以太坊
 - 了解以太坊的基础知识
@@ -88,4 +88,4 @@
 
 
 ##
-感谢支持!点点star嗷 
+感谢支持!点点star嗷!!!
