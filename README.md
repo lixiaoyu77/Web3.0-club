@@ -30,11 +30,10 @@
 # Web3.0好文推荐:
 - [送给 Web3 后浪们的职业手册 ](https://www.chaincatcher.com/article/2077168) ｜建议收藏！！！
 - [Coinbase 研究：Web3 开发者堆栈指南](https://www.chaincatcher.com/article/2078918)
+- [Web3 薪酬大揭秘：「触手可及」的百万年薪？](https://foresightnews.pro/article/detail/13027)
 - []()
 - []()
 - []()
-- []()
-- 
 #
 
 # Web3.0国内外资讯网站:
@@ -43,6 +42,8 @@
 - [金色财经](https://www.jinse.com/)
 - [链捕手](https://www.chaincatcher.com/)
 - [登链社区](https://learnblockchain.cn/)
+- [远见新闻](https://foresightnews.pro/article)
+
 #### 国外网站
 - [Web3实验室博客](https://blog.web3labs.com/)
 - [Web3大学](https://www.web3.university/)
@@ -53,16 +54,15 @@
 
 # Web3.0公众号:
 - [律动](https://www.theblockbeats.info/)
-- [巴比特](https://www.8btc.com/)
-- [金色财经](https://www.jinse.com/)
-- [链捕手](https://www.chaincatcher.com/)
 - []()
 - []()
-- []()
+
 #
 
 # Web3.0创业:
--
+- [对话 Web3 独角兽 STEPN](https://mp.weixin.qq.com/s/jRrgvRCW5j6zmAEI0XmwLw)
+- []()
+#
 
 # Web3.0招聘网站:
 - 都可以远程兼职噢
