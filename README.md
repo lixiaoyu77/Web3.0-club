@@ -24,6 +24,8 @@
 - [Web3常用术语](https://wenku.baidu.com/view/771eecc36194dd88d0d233d4b14e852458fb39a4.html)
 - [全面的Web 3.0资源](https://docs.worklife.vip/web/#/19/2000)
 - [Web3工具大全](https://www.useweb3.xyz/) -找到一切你所需要的Web3.0资源！
+- [15天入门Web3，从0到1速成指南](https://view.inews.qq.com/a/20220805A04JZO00)
+- []()
 
 #
 
@@ -31,11 +33,17 @@
 - [送给 Web3 后浪们的职业手册 ](https://www.chaincatcher.com/article/2077168) ｜建议收藏！！！
 - [Coinbase 研究：Web3 开发者堆栈指南](https://www.chaincatcher.com/article/2078918)
 - [Web3 薪酬大揭秘：「触手可及」的百万年薪？](https://foresightnews.pro/article/detail/13027)
+- [2022全球区块链领域人才报告——Web3.0方向](https://www.sohu.com/a/575058110_121268596)
 - []()
-- []()
-- []()
+- 
+
 #
 
+# Web3.0播客:
+- []()
+- 
+
+#
 # Web3.0国内外资讯网站:
 - [律动](https://www.theblockbeats.info/)
 - [巴比特](https://www.8btc.com/)
@@ -67,8 +75,9 @@
 - [Web3.0的企业如何用Token激励员工？](https://view.inews.qq.com/a/20220719A0475W00)
 - [传统产业如何进入 Web3？35 个顶级公司的商业思考](https://www.beekuaibao.com/)
 - [Web3.0 项目的 7 种市场营销策略](https://view.inews.qq.com/a/20220727A086RJ00)
-- []()
-- []()
+- [对话 DODO 创始人：如何走进 Crypto 的世界](https://mp.weixin.qq.com/s/uojAWsH27tz5fiOCiydwnA)
+- [对话 Folius Ventures 创始人：Web3 新机会在 B2C，亚太创业者有很大优势](https://view.inews.qq.com/a/20220811A04XKB00)
+- [从腾讯阿里等大厂出来创业搞 Web3、元宇宙的人在搞什么](https://36kr.com/p/1855146676932233)
 
 
 #
@@ -85,7 +94,7 @@
 #
 
 # Web3.0工具:
-- []()
+- [Web3 全栈指南](https://learnblockchain.cn/article/4478)
 - []()
 
 #
