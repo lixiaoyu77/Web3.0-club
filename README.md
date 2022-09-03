@@ -38,14 +38,19 @@
 # Web3.0播客:
 #### 国内播客
 -请使用小宇宙app订阅收听嗷
-- []()
-- 
-#### 国外播客
-- []()
+- [What the Meta 宇宙调频](https://www.xiaoyuzhoufm.com/podcast/61a9d682194d743b7da6d5bd?s=eyJ1IjoiNjJkYTc3ZmVlZGNlNjcxMDRhODJiNTI0In0%3D)
 - []()
 - []()
 - []()
 
+#### 国外播客（科学上网）
+- [a16z的web3播客](https://podcasts.apple.com/us/podcast/web3-with-a16z/id1622312549 )
+- [Crypto 101](https://podcasts.apple.com/us/podcast/crypto-101/id1262351840)
+- [Bankless 播客](https://podcasts.apple.com/us/podcast/bankless/id1499409058)
+- [Coinbase 播客](https://podcasts.apple.com/us/podcast/coinbase-around-the-block/id1593332793)
+- [Delphi 播客](https://podcasts.apple.com/us/podcast/the-delphi-podcast/id1438148082 )
+- [Modern Finance](https://podcasts.apple.com/us/podcast/modern-finance/id1338620184 )
+- []()
 
 #
 # Web3.0国内外资讯网站:
@@ -69,7 +74,7 @@
 #
 
 
-# Web3.0公众号:
+# Web3.0 微信公众号:
 - [律动](https://www.theblockbeats.info/)
 - []()
 
