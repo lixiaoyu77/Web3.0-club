@@ -73,8 +73,8 @@
 #
 
 
-# Web3.0 微信公众号:
-- [律动](https://www.theblockbeats.info/)
+# Web3.0 公众号:
+- 请在微信关注嗷！！！
 - []()
 
 
