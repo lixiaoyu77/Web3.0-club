@@ -34,13 +34,10 @@
 # Web3.0好文推荐:
 - [送给 Web3 后浪们的职业手册 ](https://www.chaincatcher.com/article/2077168) ｜建议收藏！！！
 - [Coinbase 研究：Web3 开发者堆栈指南](https://www.chaincatcher.com/article/2078918)
-- [Web3 薪酬大揭秘：「触手可及」的百万年薪？](https://foresightnews.pro/article/detail/13027)
+- [Web3 薪酬大揭秘：现在加入还来得及吗？](https://foresightnews.pro/article/detail/13027)
 - [2022全球区块链领域人才报告——Web3.0方向](https://www.sohu.com/a/575058110_121268596)
 - [你在网上找不到的关于 Web3 项目及其开发人员的事实](https://mp.weixin.qq.com/s/O6dAISEfjncUEgUqy0Dicw)
 - [应用 VS 基础设施，WEB3 的下一个 Alpha 在哪儿？](https://coinvoice.cn/articles/29279)
-- []()
-- []()
-- []()
 - []()
 - 
 #
@@ -93,7 +90,7 @@
 - [Web3 创始人指南](https://view.inews.qq.com/a/20220720A0CGWY00)
 - [那些涌入 Web3 的互联网人，现在还好吗？](https://mp.weixin.qq.com/s/S9_d18TOt_3TSXNnSlnqVQ)
 - [Web3的企业如何科学制定市场愿景？](https://mp.weixin.qq.com/s/J49-Zzu77TgJeoeunKMIlA)
-- 
+- []()
 
 #
 
@@ -108,9 +105,10 @@
 
 #
 
-# Web3.0工具:
+# Web3.0开发工具及指导:
 - [Web3 全栈指南](https://learnblockchain.cn/article/4478)
 - [Web3项目创意初学者的一站式商店](https://mp.weixin.qq.com/s/OwTcYh5-BXlB8cqRbo7tzQ)
+- [Web3 DApp 最佳编程实践指南](https://mp.weixin.qq.com/s/5A4mhlNrlD211zgWdDW-Rg)
 
 #
 
