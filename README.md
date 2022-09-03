@@ -20,8 +20,6 @@
 - [Web3术语词典：每个人都应该知道的Web3/区块链/加密/NFT等领域名词和俚语大全](https://mp.weixin.qq.com/s/ZUz5Ib3Cp2U_2kZcuejAIg)
 - []()
 
-- 
-
 #
 
 # Web3.0好文推荐:
@@ -32,17 +30,17 @@
 - [你在网上找不到的关于 Web3 项目及其开发人员的事实](https://mp.weixin.qq.com/s/O6dAISEfjncUEgUqy0Dicw)
 - [应用 VS 基础设施，WEB3 的下一个 Alpha 在哪儿？](https://coinvoice.cn/articles/29279)
 - []()
-- 
 #
 
 # Web3.0播客:
 #### 国内播客
 -请使用小宇宙app订阅收听嗷
 - [What the Meta 宇宙调频](https://www.xiaoyuzhoufm.com/podcast/61a9d682194d743b7da6d5bd?s=eyJ1IjoiNjJkYTc3ZmVlZGNlNjcxMDRhODJiNTI0In0%3D)
+- [HODLong 后浪](https://www.xiaoyuzhoufm.com/podcast/62735d9aa679bbb043f60ae3?s=eyJ1IjoiNjJkYTc3ZmVlZGNlNjcxMDRhODJiNTI0In0%3D)
+- [Web3 101](https://www.xiaoyuzhoufm.com/podcast/62c2b6b3a61b9fd92a401b39?s=eyJ1IjoiNjJkYTc3ZmVlZGNlNjcxMDRhODJiNTI0In0%3D)
+- [Web3随意门](https://www.xiaoyuzhoufm.com/podcast/61d7b31476fadc2c29e3b821?s=eyJ1IjoiNjJkYTc3ZmVlZGNlNjcxMDRhODJiNTI0In0%3D)
+- [Web3无名说](https://www.xiaoyuzhoufm.com/podcast/622d905cadf8ccf5e945231a?s=eyJ1IjoiNjJkYTc3ZmVlZGNlNjcxMDRhODJiNTI0In0%3D)
 - []()
-- []()
-- []()
-
 #### 国外播客（科学上网）
 - [a16z的web3播客](https://podcasts.apple.com/us/podcast/web3-with-a16z/id1622312549 )
 - [Crypto 101](https://podcasts.apple.com/us/podcast/crypto-101/id1262351840)
@@ -53,6 +51,7 @@
 - []()
 
 #
+
 # Web3.0国内外资讯网站:
 - [律动](https://www.theblockbeats.info/)
 - [巴比特](https://www.8btc.com/)
