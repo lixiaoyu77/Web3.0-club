@@ -21,11 +21,13 @@
 # Web3.0基本知识:
 - [九句话，从零了解Web3](https://www.theblockbeats.info/news/28748)
 - [一文读懂Web 3.0](https://www.woshipm.com/it/5261307.html)
-- [Web3常用术语](https://wenku.baidu.com/view/771eecc36194dd88d0d233d4b14e852458fb39a4.html)
 - [全面的Web 3.0资源](https://docs.worklife.vip/web/#/19/2000)
 - [Web3工具大全](https://www.useweb3.xyz/) -找到一切你所需要的Web3.0资源！
 - [15天入门Web3，从0到1速成指南](https://view.inews.qq.com/a/20220805A04JZO00)
+- [Web3术语词典：每个人都应该知道的Web3/区块链/加密/NFT等领域名词和俚语大全](https://mp.weixin.qq.com/s/ZUz5Ib3Cp2U_2kZcuejAIg)
 - []()
+
+- 
 
 #
 
@@ -34,12 +36,17 @@
 - [Coinbase 研究：Web3 开发者堆栈指南](https://www.chaincatcher.com/article/2078918)
 - [Web3 薪酬大揭秘：「触手可及」的百万年薪？](https://foresightnews.pro/article/detail/13027)
 - [2022全球区块链领域人才报告——Web3.0方向](https://www.sohu.com/a/575058110_121268596)
+- [你在网上找不到的关于 Web3 项目及其开发人员的事实](https://mp.weixin.qq.com/s/O6dAISEfjncUEgUqy0Dicw)
+- [应用 VS 基础设施，WEB3 的下一个 Alpha 在哪儿？](https://coinvoice.cn/articles/29279)
+- []()
+- []()
+- []()
 - []()
 - 
-
 #
 
 # Web3.0播客:
+- 原来 Web3er 都在听这些播客！！！
 - []()
 - 
 
@@ -52,7 +59,10 @@
 - [登链社区](https://learnblockchain.cn/)
 - [远见新闻](https://foresightnews.pro/article)
 - [币快报](https://www.beekuaibao.com/)
+- [区块链智库媒体]( https://www.panewslab.com/zh/index.html)
+- [币百科](https://www.btcbaike.com/)
 - []()
+
 
 #### 国外网站
 - [Web3实验室博客](https://blog.web3labs.com/)
@@ -78,7 +88,12 @@
 - [对话 DODO 创始人：如何走进 Crypto 的世界](https://mp.weixin.qq.com/s/uojAWsH27tz5fiOCiydwnA)
 - [对话 Folius Ventures 创始人：Web3 新机会在 B2C，亚太创业者有很大优势](https://view.inews.qq.com/a/20220811A04XKB00)
 - [从腾讯阿里等大厂出来创业搞 Web3、元宇宙的人在搞什么](https://36kr.com/p/1855146676932233)
-
+- [加密创业者锦囊｜Web3创业者请收下：最常遇到的四大陷阱](https://www.panewslab.com/zh/articledetails/1647412228187420.html)
+- [硅谷的加密 VC 合伙人们 都看好哪些 WEB3项目？](http://news.sohu.com/a/576963212_121118710)
+- [Web3 创始人指南](https://view.inews.qq.com/a/20220720A0CGWY00)
+- [那些涌入 Web3 的互联网人，现在还好吗？](https://mp.weixin.qq.com/s/S9_d18TOt_3TSXNnSlnqVQ)
+- [Web3的企业如何科学制定市场愿景？](https://mp.weixin.qq.com/s/J49-Zzu77TgJeoeunKMIlA)
+- 
 
 #
 
@@ -89,16 +104,16 @@
 - [加密工作清单](https://cryptojobslist.com/community)
 - [加密工作](https://cryptocurrencyjobs.co/)
 - []()
-- []()
+
 
 #
 
 # Web3.0工具:
 - [Web3 全栈指南](https://learnblockchain.cn/article/4478)
-- []()
+- [Web3项目创意初学者的一站式商店](https://mp.weixin.qq.com/s/OwTcYh5-BXlB8cqRbo7tzQ)
 
 #
 
 
 ##
-感谢支持!点点star嗷!!!
+感谢支持!收集不易，点点star嗷!!!
