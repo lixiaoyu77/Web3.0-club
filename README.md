@@ -43,6 +43,8 @@
 - [链捕手](https://www.chaincatcher.com/)
 - [登链社区](https://learnblockchain.cn/)
 - [远见新闻](https://foresightnews.pro/article)
+- [币快报](https://www.beekuaibao.com/)
+- []()
 
 #### 国外网站
 - [Web3实验室博客](https://blog.web3labs.com/)
@@ -55,13 +57,20 @@
 # Web3.0公众号:
 - [律动](https://www.theblockbeats.info/)
 - []()
-- []()
+
 
 #
 
 # Web3.0创业:
 - [对话 Web3 独角兽 STEPN](https://mp.weixin.qq.com/s/jRrgvRCW5j6zmAEI0XmwLw)
+- [Web3.0产品经理指南：如何面向加密世界](https://learnblockchain.cn/article/4427)
+- [Web3.0的企业如何用Token激励员工？](https://view.inews.qq.com/a/20220719A0475W00)
+- [传统产业如何进入 Web3？35 个顶级公司的商业思考](https://www.beekuaibao.com/)
+- [Web3.0 项目的 7 种市场营销策略](https://view.inews.qq.com/a/20220727A086RJ00)
 - []()
+- []()
+
+
 #
 
 # Web3.0招聘网站:
@@ -71,7 +80,16 @@
 - [加密工作清单](https://cryptojobslist.com/community)
 - [加密工作](https://cryptocurrencyjobs.co/)
 - []()
+- []()
+
 #
+
+# Web3.0工具:
+- []()
+- []()
+
+#
+
 
 ##
 感谢支持!点点star嗷!!!
