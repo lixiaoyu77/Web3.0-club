@@ -26,6 +26,7 @@
 - [送给 Web3 后浪们的职业手册 ](https://www.chaincatcher.com/article/2077168) ｜强烈建议阅读！！！
 - [Web3 薪酬大揭秘：现在加入还来得及吗？](https://foresightnews.pro/article/detail/13027)
 - [2022全球区块链领域人才报告——Web3.0方向](https://www.sohu.com/a/575058110_121268596)
+- [逆裁员潮而上，Web3.0热门岗位一览](https://www.163.com/dy/article/H62D6H1G05533N88.html)
 - [你在网上找不到的关于 Web3 项目及其开发人员的事实](https://mp.weixin.qq.com/s/O6dAISEfjncUEgUqy0Dicw)
 - [应用 VS 基础设施，WEB3 的下一个 Alpha 在哪儿？](https://coinvoice.cn/articles/29279)
 - []()
@@ -105,7 +106,6 @@
 
 #
 # Web3.0招聘网站:
-- [逆裁员潮而上，Web3.0热门岗位一览](https://www.163.com/dy/article/H62D6H1G05533N88.html)
 - 都可以远程兼职噢
 - [web3工作](https://web3.career/) 
 - [去中心化招聘](https://app.dework.xyz/?step=product-update-220527) -还有一些赏金任务！！！
