@@ -15,7 +15,6 @@
 - [九句话，从零了解Web3](https://www.theblockbeats.info/news/28748)
 - [一文读懂Web 3.0](https://www.woshipm.com/it/5261307.html)
 - [全面的Web 3.0资源](https://docs.worklife.vip/web/#/19/2000)
-- [Web3工具大全](https://www.useweb3.xyz/) -找到一切你所需要的Web3.0资源！
 - [15天入门Web3，从0到1速成指南](https://view.inews.qq.com/a/20220805A04JZO00)
 - [Web3术语词典：每个人都应该知道的Web3/区块链/加密/NFT等领域名词和俚语大全](https://mp.weixin.qq.com/s/ZUz5Ib3Cp2U_2kZcuejAIg)
 - []()
@@ -24,7 +23,6 @@
 
 # Web3.0好文推荐:
 - [送给 Web3 后浪们的职业手册 ](https://www.chaincatcher.com/article/2077168) ｜建议收藏！！！
-- [Coinbase 研究：Web3 开发者堆栈指南](https://www.chaincatcher.com/article/2078918)
 - [Web3 薪酬大揭秘：现在加入还来得及吗？](https://foresightnews.pro/article/detail/13027)
 - [2022全球区块链领域人才报告——Web3.0方向](https://www.sohu.com/a/575058110_121268596)
 - [你在网上找不到的关于 Web3 项目及其开发人员的事实](https://mp.weixin.qq.com/s/O6dAISEfjncUEgUqy0Dicw)
@@ -104,16 +102,18 @@
 - [去中心化招聘](https://app.dework.xyz/?step=product-update-220527) -还有一些赏金任务！！！
 - [加密工作清单](https://cryptojobslist.com/community)
 - [加密工作](https://cryptocurrencyjobs.co/)
-- []()
+- [领英]()
+- [国内的一些招聘网站！！！]()
 
 
 #
 
 # Web3.0开发工具及指导:
 - [Web3 全栈指南](https://learnblockchain.cn/article/4478)
-- [Web3项目创意初学者的一站式商店](https://mp.weixin.qq.com/s/OwTcYh5-BXlB8cqRbo7tzQ)
+- [Coinbase 研究：Web3 开发者堆栈指南](https://www.chaincatcher.com/article/2078918)
 - [Web3 DApp 最佳编程实践指南](https://mp.weixin.qq.com/s/5A4mhlNrlD211zgWdDW-Rg)
-
+- [Web3工具大全](https://www.useweb3.xyz/) -找到一切你所需要的Web3.0资源！
+- [Web3项目创意初学者的一站式商店](https://mp.weixin.qq.com/s/OwTcYh5-BXlB8cqRbo7tzQ)
 #
 
 
