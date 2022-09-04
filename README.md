@@ -99,19 +99,20 @@
 - []()
 
 #
-# Web3.0 营销手法:
+# Web3.0 营销:
 - [Web3.0 项目的 7 种市场营销策略](https://view.inews.qq.com/a/20220727A086RJ00)
 - []()
 
 #
 # Web3.0招聘网站:
+- [逆裁员潮而上，Web3.0热门岗位一览](https://www.163.com/dy/article/H62D6H1G05533N88.html)
 - 都可以远程兼职噢
 - [web3工作](https://web3.career/) 
 - [去中心化招聘](https://app.dework.xyz/?step=product-update-220527) -还有一些赏金任务！！！
 - [加密工作清单](https://cryptojobslist.com/community)
 - [加密工作](https://cryptocurrencyjobs.co/)
 - [领英]()
-- [国内的一些招聘网站！！！]()
+- [国内的一些招聘网站 boss ...]()
 
 
 #
