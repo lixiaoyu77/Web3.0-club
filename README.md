@@ -79,22 +79,22 @@
 
 # Web3.0 公众号:
 - 请在微信关注嗷！！！
-- [Web3知识库]()
-- [Web3大航海]()
-- [深潮TechFlow]()
-- [链捕手ChainCatcher]()
-- [吴说Real]()
-- [元宇宙之道]()
-- [去中心化金融社区]()
-- [陀螺财经]()
-- [吉时通信]()
-- [老雅痞]()
-- [李留白]()
-- [Unitimes]()
-- [CertiK]()
-- [FastDaily]()
-- [Meta之光]()
-- [SevenUp Dao]()
+- [Web3知识库]
+- [Web3大航海]
+- [深潮TechFlow]
+- [链捕手ChainCatcher]
+- [吴说Real]
+- [元宇宙之道]
+- [去中心化金融社区]
+- [陀螺财经]
+- [吉时通信]
+- [老雅痞]
+- [李留白]
+- [Unitimes]
+- [CertiK]
+- [FastDaily]
+- [Meta之光]
+- [SevenUp Dao]
 - []()
 
 #
