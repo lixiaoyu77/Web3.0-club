@@ -124,11 +124,18 @@ Filecoin与Arweave、Sia Coin和Storj 是其他存储项目的市场领导者。
 - [Arweave (AR)](https://www.arweave.org/)
 - 一个Web3存储项目Arweave保留了Solana Network的全部存储空间，这是因为Solana Network的增加将会增加Arweave的数据量，以满足其庞大的数据需求。此外，Solana只是Arweave的合伙人之一。
 #
+
 # Web3.0 营销:
 - [Web3.0 项目的 7 种市场营销策略](https://view.inews.qq.com/a/20220727A086RJ00)
 - []()
 
 #
+
+# Web3.0 黑客松:
+- []()
+
+#
+
 # Web3.0招聘网站:
 - 都可以远程兼职噢
 - [web3工作](https://web3.career/) 
