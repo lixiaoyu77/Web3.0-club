@@ -136,6 +136,12 @@
 Filecoin与Arweave、Sia Coin和Storj 是其他存储项目的市场领导者。
 - [Arweave (AR)](https://www.arweave.org/)
 - 一个Web3存储项目Arweave保留了Solana Network的全部存储空间，这是因为Solana Network的增加将会增加Arweave的数据量，以满足其庞大的数据需求。此外，Solana只是Arweave的合伙人之一。
+- [Uniswap](https://app.uniswap.org/)
+-Uniswap是一个点对点的开源协议，用于交换基于Ethereum的加密货币（ERC-20代币）。该协议是作为一系列永久的、不可升级的智能合约来实现的，它优先考虑反审查、安全、所有权和不使用中间商的功能。
+- []()
+-
+- []()
+-
 #
 
 # Web3.0 营销:
