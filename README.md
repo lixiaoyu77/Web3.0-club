@@ -66,7 +66,6 @@
 
 # Web3.0国内外资讯网站:
 - [律动](https://www.theblockbeats.info/)
-- [巴比特](https://www.8btc.com/)
 - [金色财经](https://www.jinse.com/)
 - [链捕手](https://www.chaincatcher.com/)
 - [登链社区](https://learnblockchain.cn/)
