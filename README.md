@@ -75,14 +75,11 @@
 - [币百科](https://www.btcbaike.com/)
 - []()
 
-
-#### 国外网站
+-  国外网站
 - [Web3实验室博客](https://blog.web3labs.com/)
 - [Web3大学](https://www.web3.university/)
 - [Web3哈希节点](https://web3.hashnode.com/)
 - [Dapp雷达](https://dappradar.com/)
-#
-
 
 # Web3.0 公众号:
 - 请在微信关注嗷！！！
@@ -135,18 +132,6 @@ Filecoin与Arweave、Sia Coin和Storj 是其他存储项目的市场领导者。
 -
 - []()
 -
-#
-
-# Web3.0 营销:
-- [Web3.0 项目的 7 种市场营销策略](https://view.inews.qq.com/a/20220727A086RJ00)
-- []()
-
-#
-
-# Web3.0 黑客松:
-- []()
-
-#
 
 # Web3.0招聘网站:
 - 都可以远程兼职噢
@@ -156,14 +141,13 @@ Filecoin与Arweave、Sia Coin和Storj 是其他存储项目的市场领导者。
 - [加密工作](https://cryptocurrencyjobs.co/)
 - [cryptojobs](https://crypto.jobs/)
 - [领英]()
-- 
 - [微信公众号TonyJobs]()
 - 
 
 
 #
 
-# Web3.0开发工具及指导:
+# Web3.0工具及指导:
 - [Web3 全栈指南](https://learnblockchain.cn/article/4478)
 - [Coinbase 研究：Web3 开发者堆栈指南](https://www.chaincatcher.com/article/2078918)
 - [Web3 DApp 最佳编程实践指南](https://mp.weixin.qq.com/s/5A4mhlNrlD211zgWdDW-Rg)
