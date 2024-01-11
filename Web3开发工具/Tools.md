@@ -2,10 +2,17 @@
 
 ## 数据分析
 - []()
+- []()
+- []()
+- []()
+- [Bubblemaps](https://app.bubblemaps.io/eth/)
+- [TradingView](https://cn.tradingview.com/markets/cryptocurrencies/)
+## 数字钱包
+
 ## Token信息查询
 
 - [CoinMarketCap](https://coinmarketcap.com/)
-- []()
+- [CoinGecko](https://www.coingecko.com/)
 - []()
 - []()
 - []()
