@@ -149,6 +149,7 @@ Filecoin与Arweave、Sia Coin和Storj 是其他存储项目的市场领导者。
 - [Web3 DApp 最佳编程实践指南](https://mp.weixin.qq.com/s/5A4mhlNrlD211zgWdDW-Rg)
 - [Web3工具大全](https://www.useweb3.xyz/) -找到一切你所需要的Web3.0资源！
 - [Web3项目创意初学者的一站式商店](https://mp.weixin.qq.com/s/OwTcYh5-BXlB8cqRbo7tzQ)
+- [查看更多](https://github.com/lixiaoyu77/Web3.0-club/blob/main/Web3%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/Tools.md)
 #
 
 
