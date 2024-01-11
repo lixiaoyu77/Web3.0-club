@@ -34,8 +34,7 @@
 - [SevenUp Dao]
 - []()
 
-# Web3.0播客:
-#### 国内播客
+## Web3 播客:
 -请使用小宇宙app订阅收听嗷
 - [What the Meta 宇宙调频](https://www.xiaoyuzhoufm.com/podcast/61a9d682194d743b7da6d5bd?s=eyJ1IjoiNjJkYTc3ZmVlZGNlNjcxMDRhODJiNTI0In0%3D)
 - [HODLong 后浪](https://www.xiaoyuzhoufm.com/podcast/62735d9aa679bbb043f60ae3?s=eyJ1IjoiNjJkYTc3ZmVlZGNlNjcxMDRhODJiNTI0In0%3D)
@@ -43,7 +42,7 @@
 - [Web3随意门](https://www.xiaoyuzhoufm.com/podcast/61d7b31476fadc2c29e3b821?s=eyJ1IjoiNjJkYTc3ZmVlZGNlNjcxMDRhODJiNTI0In0%3D)
 - [Web3无名说](https://www.xiaoyuzhoufm.com/podcast/622d905cadf8ccf5e945231a?s=eyJ1IjoiNjJkYTc3ZmVlZGNlNjcxMDRhODJiNTI0In0%3D)
 - []()
-#### 国外播客（科学上网）
+- 国外播客（科学上网）
 - [a16z的web3播客](https://podcasts.apple.com/us/podcast/web3-with-a16z/id1622312549 )
 - [Crypto 101](https://podcasts.apple.com/us/podcast/crypto-101/id1262351840)
 - [Bankless 播客](https://podcasts.apple.com/us/podcast/bankless/id1499409058)
