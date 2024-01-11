@@ -16,10 +16,10 @@
 - [PANews]( https://www.panewslab.com/zh/index.html)
 - [币百科](https://www.btcbaike.com/)
 -  英文
+- [CoinDesk](https://www.coindesk.com/)
 - [Web3实验室博客](https://blog.web3labs.com/)
 - [Web3大学](https://www.web3.university/)
 - [Web3哈希节点](https://web3.hashnode.com/)
-- [Dapp雷达](https://dappradar.com/)
 
 ## Web3 公众号
 - 请在微信关注嗷！！！
