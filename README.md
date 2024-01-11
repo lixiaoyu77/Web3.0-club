@@ -66,14 +66,13 @@
 
 # Web3.0国内外资讯网站:
 - [律动](https://www.theblockbeats.info/)
+- [TechFlow 深潮](https://www.techflowpost.com/)
 - [金色财经](https://www.jinse.com/)
 - [链捕手](https://www.chaincatcher.com/)
 - [登链社区](https://learnblockchain.cn/)
-- [远见新闻](https://foresightnews.pro/article)
-- [币快报](https://www.beekuaibao.com/)
-- [区块链智库媒体]( https://www.panewslab.com/zh/index.html)
+- [Foresight](https://foresightnews.pro/article)
+- [PANews]( https://www.panewslab.com/zh/index.html)
 - [币百科](https://www.btcbaike.com/)
-- []()
 
 -  国外网站
 - [Web3实验室博客](https://blog.web3labs.com/)
