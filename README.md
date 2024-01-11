@@ -24,13 +24,13 @@
 - 我希望我分享的Web3.0资源不仅仅可以帮助你增长知识和开阔眼界，而且可以帮你赚很多钱！                         
 
 
-# Web3.0基本知识:
+# Web3.0 学习指南:
 - [九句话，从零了解Web3](https://www.theblockbeats.info/news/28748)
 - [15天入门Web3，从0到1速成指南](https://view.inews.qq.com/a/20220805A04JZO00)
 - [一文读懂Web 3.0](https://www.woshipm.com/it/5261307.html)
 - [全面的Web 3.0资源](https://docs.worklife.vip/web/#/19/2000)
 - [Web3术语词典：每个人都应该知道的Web3/区块链/加密/NFT等领域名词和俚语大全](https://mp.weixin.qq.com/s/ZUz5Ib3Cp2U_2kZcuejAIg)
-- []()
+- [查看更多](https://github.com/lixiaoyu77/Web3.0-club/blob/main/Web3%E5%AD%A6%E4%B9%A0%E6%8C%87%E5%8D%97/Guide.md)
 
 #
 
@@ -90,7 +90,7 @@ Filecoin与Arweave、Sia Coin和Storj 是其他存储项目的市场领导者。
 
 #
 
-# Web3.0工具及指导:
+# Web3 开发工具:
 - [Web3 全栈指南](https://learnblockchain.cn/article/4478)
 - [Coinbase 研究：Web3 开发者堆栈指南](https://www.chaincatcher.com/article/2078918)
 - [Web3 DApp 最佳编程实践指南](https://mp.weixin.qq.com/s/5A4mhlNrlD211zgWdDW-Rg)

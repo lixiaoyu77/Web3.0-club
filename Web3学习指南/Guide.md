@@ -1,4 +1,10 @@
 - []()
+## Web3 学习指南
+- [九句话，从零了解Web3](https://www.theblockbeats.info/news/28748)
+- [15天入门Web3，从0到1速成指南](https://view.inews.qq.com/a/20220805A04JZO00)
+- [一文读懂Web 3.0](https://www.woshipm.com/it/5261307.html)
+- [全面的Web 3.0资源](https://docs.worklife.vip/web/#/19/2000)
+- [Web3术语词典：每个人都应该知道的Web3/区块链/加密/NFT等领域名词和俚语大全](https://mp.weixin.qq.com/s/ZUz5Ib3Cp2U_2kZcuejAIg)
 
 ## Web3 资讯网站
 - [律动](https://www.theblockbeats.info/)
