@@ -21,7 +21,7 @@
 - [Web3哈希节点](https://web3.hashnode.com/)
 - [Dapp雷达](https://dappradar.com/)
 
-## Web3 公众号:
+## Web3 公众号
 - 请在微信关注嗷！！！
 - [Web3知识库]
 - [Web3大航海]
@@ -40,7 +40,7 @@
 - [SevenUp Dao]
 - []()
 
-## Web3 播客:
+## Web3 播客
 -请使用小宇宙app订阅收听嗷
 - [What the Meta 宇宙调频](https://www.xiaoyuzhoufm.com/podcast/61a9d682194d743b7da6d5bd?s=eyJ1IjoiNjJkYTc3ZmVlZGNlNjcxMDRhODJiNTI0In0%3D)
 - [HODLong 后浪](https://www.xiaoyuzhoufm.com/podcast/62735d9aa679bbb043f60ae3?s=eyJ1IjoiNjJkYTc3ZmVlZGNlNjcxMDRhODJiNTI0In0%3D)
