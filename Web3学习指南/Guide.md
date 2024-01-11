@@ -15,11 +15,15 @@
 - [Foresight](https://foresightnews.pro/article)
 - [PANews]( https://www.panewslab.com/zh/index.html)
 - [币百科](https://www.btcbaike.com/)
--  英文
+-  英文好的同学可以去这些文章逛一逛！！！第一资讯
+- [Cointelegraph](https://cointelegraph.com/)
 - [CoinDesk](https://www.coindesk.com/)
 - [Web3实验室博客](https://blog.web3labs.com/)
 - [Web3大学](https://www.web3.university/)
 - [Web3哈希节点](https://web3.hashnode.com/)
+- [Decrypt](https://decrypt.co/)
+- []()
+- []()
 
 ## Web3 公众号
 - 请在微信关注嗷！！！
