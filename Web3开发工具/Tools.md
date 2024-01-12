@@ -14,19 +14,18 @@
 - [MEMPool——BTC内存池浏览器](https://mempool.space/zh/)
 - [Etherscan——以太坊浏览器](https://etherscan.io/)
 - [BSCscan——币安链浏览器](https://www.bscscan.com/)
-- 地址查询
+- 钱包查询/追踪
 - [Debank](https://debank.com/)
 ## 数字钱包
 
 ## Token信息查询
-
 - [CoinMarketCap](https://coinmarketcap.com/)
 - [CoinGecko](https://www.coingecko.com/)
 - [Avedex](https://avedex.cc/home)
 - [DexScreener](https://dexscreener.com/)
 - [DexTools](https://www.dextools.io/app/cn/ether/pairs)
-- []()
-
+- [Honeypot，检测链上合约是否为蜜罐(指的是一种诈骗手段，其中某个项目或合约被设计成吸引其他人投入资金，然后在某种条件下窃取或锁定这些资金)](https://honeypot.is/)
+- （CEX）中心化交易所
 
 - [Web3工具大全](https://www.useweb3.xyz/) -找到一切你所需要的Web3.0资源！
 
