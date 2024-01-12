@@ -5,6 +5,7 @@
 - [一文读懂Web 3.0](https://www.woshipm.com/it/5261307.html)
 - [全面的Web 3.0资源](https://docs.worklife.vip/web/#/19/2000)
 - [Web3术语词典：每个人都应该知道的Web3/区块链/加密/NFT等领域名词和俚语大全](https://mp.weixin.qq.com/s/ZUz5Ib3Cp2U_2kZcuejAIg)
+- [solidity学习](https://www.wtf.academy/)
 
 ## Web3 资讯网站
 - [律动](https://www.theblockbeats.info/)
@@ -21,7 +22,8 @@
 - [CoinDesk](https://www.coindesk.com/)
 - [Decrypt](https://decrypt.co/)
 - [CryptoNews](https://crypto.news/)
-- [Bitcoin杂志](https://bitcoinmagazine.com/)
+- [Bitcoin 杂志](https://bitcoinmagazine.com/)
+- [Bitcoin 指南](https://aprycot.media/thek/)
 - [Web3实验室博客](https://blog.web3labs.com/)
 - [Web3大学](https://www.web3.university/)
 - [Web3哈希节点](https://web3.hashnode.com/)
