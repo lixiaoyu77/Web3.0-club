@@ -13,7 +13,8 @@
 - [链捕手](https://www.chaincatcher.com/)
 - [登链社区](https://learnblockchain.cn/)
 - [Foresight](https://foresightnews.pro/article)
-- [PANews]( https://www.panewslab.com/zh/index.html)
+- [PANews](https://www.panewslab.com/zh/index.html)
+- [Followin](https://followin.io/zh-Hans)
 - [币百科](https://www.btcbaike.com/)
 -  英文好的同学可以去这些文章逛一逛，第一资讯！！！
 - [Cointelegraph](https://cointelegraph.com/)
