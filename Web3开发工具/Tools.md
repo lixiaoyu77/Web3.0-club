@@ -11,6 +11,7 @@
 - [Graph——去中心化的协议，用于索引和查询区块链的数据](https://thegraph.com/)
 - [OKLINK链上大师——主流链的精选指标，一览行业动向, 如(BTC ahr999 囤币指标)](https://www.oklink.com/cn/chainhub/choiceness)
 - [Etherum实时通缩量](https://ultrasound.money/)
+- [加密情绪看板](https://alternative.me/crypto/)
 - [MEMPool——BTC内存池浏览器](https://mempool.space/zh/)
 - [Etherscan——以太坊浏览器](https://etherscan.io/)
 - [BSCscan——币安链浏览器](https://www.bscscan.com/)
@@ -20,12 +21,13 @@
 
 ## Token信息查询
 - [CoinMarketCap](https://coinmarketcap.com/)
+- [TokenInsight](https://tokeninsight.com/zh/cryptocurrencies/)
 - [CoinGecko](https://www.coingecko.com/)
 - [Avedex](https://avedex.cc/home)
 - [DexScreener](https://dexscreener.com/)
 - [DexTools](https://www.dextools.io/app/cn/ether/pairs)
 - [Honeypot——检测链上合约是否为蜜罐(指的是一种诈骗手段，其中某个项目或合约被设计成吸引其他人投入资金，然后在某种条件下窃取或锁定这些资金)](https://honeypot.is/)
-- （CEX）中心化交易所
+- CEX——中心化交易所
 
 
 
