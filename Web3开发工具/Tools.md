@@ -1,7 +1,6 @@
 - []()
 
 ## 数据查询/分析
-- []()
 - [Messari](https://messari.io/)
 - [GlassNode](https://studio.glassnode.com/home)
 - [Nansen](https://pro.nansen.ai/)
@@ -10,6 +9,7 @@
 - [TradingView](https://cn.tradingview.com/markets/cryptocurrencies/)
 - [CryptoQuant](https://cryptoquant.com/analytics/dashboard)
 - [Graph, 一个去中心化的协议，用于索引和查询区块链的数据](https://thegraph.com/)
+- [Etherum实时通缩](https://ultrasound.money/)
 - [MEMPool, BTC内存池浏览器](https://mempool.space/zh/)
 - [Etherscan, 以太坊浏览器](https://etherscan.io/)
 - [BSCscan, 币安链浏览器](https://www.bscscan.com/)
@@ -33,7 +33,7 @@
 ## 开发工具
 - [Remix, 以太坊编译器](https://remix.ethereum.org/)
 - [Chainlist, EVM网络的列表。使用它找到Chain ID 和 Network ID，以连接到正确的链](https://chainlist.org/)
-- []()
+- [](https://www.alchemy.com/)
 - []()
 - []()
 - []()
