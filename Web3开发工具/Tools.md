@@ -9,7 +9,7 @@
 - [TradingView](https://cn.tradingview.com/markets/cryptocurrencies/)
 - [CryptoQuant](https://cryptoquant.com/analytics/dashboard)
 - [Graph, 一个去中心化的协议，用于索引和查询区块链的数据](https://thegraph.com/)
-- [OKLINK 链上大师，主流链的精选指标，一览行业动向](https://www.oklink.com/cn/chainhub/choiceness)
+- [OKLINK 链上大师，主流链的精选指标，一览行业动向, 如(BTC ahr999 囤币指标)](https://www.oklink.com/cn/chainhub/choiceness)
 - [Etherum实时通缩量](https://ultrasound.money/)
 - [MEMPool, BTC内存池浏览器](https://mempool.space/zh/)
 - [Etherscan, 以太坊浏览器](https://etherscan.io/)
