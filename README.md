@@ -100,7 +100,11 @@ Filecoin与Arweave、Sia Coin和Storj 是其他存储项目的市场领导者。
 - [Web3项目创意初学者的一站式商店](https://mp.weixin.qq.com/s/OwTcYh5-BXlB8cqRbo7tzQ)
 - [查看更多](https://github.com/lixiaoyu77/Web3.0-club/blob/main/Web3%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/Tools.md)
 #
-
+xx | xx |  xx  
+-|-|-
+xx | $1 | 5 |
+xx | $1 | 6 |
+xx | $1 | 7 |
 
 ##
 **收集不易，点点star嗷！！！**
