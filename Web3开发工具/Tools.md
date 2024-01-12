@@ -5,7 +5,7 @@
 - [GlassNode](https://studio.glassnode.com/home)
 - [Nansen](https://pro.nansen.ai/)
 - [Dune](https://dune.com/home)
-- [Bubblemaps](https://app.bubblemaps.io/eth/)
+- [Bubblemaps, 针对 DeFi 代币和 NFT 的供应审计工具, 独特的彩色气泡使链上数据易于理解。](https://app.bubblemaps.io/eth/)
 - [TradingView](https://cn.tradingview.com/markets/cryptocurrencies/)
 - [CryptoQuant](https://cryptoquant.com/analytics/dashboard)
 - [Graph, 一个去中心化的协议，用于索引和查询区块链的数据](https://thegraph.com/)
