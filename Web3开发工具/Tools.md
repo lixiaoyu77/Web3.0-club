@@ -24,10 +24,9 @@
 - [Avedex](https://avedex.cc/home)
 - [DexScreener](https://dexscreener.com/)
 - [DexTools](https://www.dextools.io/app/cn/ether/pairs)
-- [Honeypot，检测链上合约是否为蜜罐(指的是一种诈骗手段，其中某个项目或合约被设计成吸引其他人投入资金，然后在某种条件下窃取或锁定这些资金)](https://honeypot.is/)
+- [Honeypot——检测链上合约是否为蜜罐(指的是一种诈骗手段，其中某个项目或合约被设计成吸引其他人投入资金，然后在某种条件下窃取或锁定这些资金)](https://honeypot.is/)
 - （CEX）中心化交易所
 
-- [Web3工具大全](https://www.useweb3.xyz/) -找到一切你所需要的Web3.0资源！
 
 
 ## 开发工具
@@ -37,3 +36,6 @@
 - [Infura, 节点提供商](https://infura.io/)
 - [QuickNode, 节点提供商](https://www.quicknode.com/)
 - [AWS Blockchain Templates, 节点提供商](https://aws.amazon.com/blockchain/)
+
+#
+- [Web3工具大全](https://www.useweb3.xyz/) -找到一切你所需要的Web3.0资源！
