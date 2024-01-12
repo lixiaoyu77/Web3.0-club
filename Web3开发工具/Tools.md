@@ -3,7 +3,7 @@
 ## 数据查询/分析
 - [Messari](https://messari.io/)
 - [GlassNode](https://studio.glassnode.com/home)
-- [Nansen](https://pro.nansen.ai/)
+- [Nansen - 查询公共区块链数据并将其聚合到漂亮的仪表板中](https://pro.nansen.ai/)
 - [Dune](https://dune.com/home)
 - [Bubblemaps——针对 DeFi 代币和 NFT 的供应审计工具, 独特的彩色气泡使链上数据易于理解](https://app.bubblemaps.io/eth/)
 - [TradingView](https://cn.tradingview.com/markets/cryptocurrencies/)
