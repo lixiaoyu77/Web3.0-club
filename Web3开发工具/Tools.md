@@ -17,8 +17,10 @@
 - [Etherscan——以太坊浏览器](https://etherscan.io/)
 - [BSCscan——币安链浏览器](https://www.bscscan.com/)
 - 钱包查询/追踪
+- [Definder](https://definder.info/)
 - [Debank](https://debank.com/)
 - [Zerion](https://app.zerion.io/explore)
+- [Scopescan](https://www.scopescan.ai/)
 
 ## 数字钱包
 - [Onekey](https://card.onekey.so/)

@@ -17,6 +17,7 @@
 - [PANews](https://www.panewslab.com/zh/index.html)
 - [Followin](https://followin.io/zh-Hans)
 - [币百科](https://www.btcbaike.com/)
+- [ChainFeeds](https://www.chainfeeds.xyz/)
 -  英文好的同学可以去这些文章逛一逛，第一资讯！！！
 - [Cointelegraph](https://cointelegraph.com/)
 - [CoinDesk](https://www.coindesk.com/)
