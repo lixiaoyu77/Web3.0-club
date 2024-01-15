@@ -27,6 +27,7 @@
 
 # Web3.0 学习指南:
 - [九句话，从零了解Web3](https://www.theblockbeats.info/news/28748)
+-[区块链黑暗森林自救手册-入圈必读！！！](https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook/blob/main/README_CN.md)
 - [15天入门Web3，从0到1速成指南](https://view.inews.qq.com/a/20220805A04JZO00)
 - [一文读懂Web 3.0](https://www.woshipm.com/it/5261307.html)
 - [全面的Web 3.0资源](https://docs.worklife.vip/web/#/19/2000)
