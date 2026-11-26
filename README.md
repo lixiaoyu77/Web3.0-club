@@ -89,6 +89,7 @@ Filecoin与Arweave、Sia Coin和Storj 是其他存储项目的市场领导者。
 - [加密工作](https://cryptocurrencyjobs.co/)
 - [cryptojobs](https://crypto.jobs/)
 - [领英](https://www.linkedin.com/)
+- [Dapping](https://dapp.ing/jobs)
 
 
 #
